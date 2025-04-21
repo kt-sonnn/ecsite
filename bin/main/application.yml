@@ -20,7 +20,7 @@ mybatis:
 logging:
   level:
     org:
-      springframework:WARN
+      springframework: WARN
     jp:
       co:
         internous:
